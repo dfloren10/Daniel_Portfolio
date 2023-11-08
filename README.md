@@ -8,10 +8,8 @@ My data science portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/positions_by_state.png)
-
 # [Project 1: NBA Player Salary Estimator](https:) 
-* Created a tool that estimates NBA Player salaries (RMSE ~ $ 4.6M , R^2 ~ .8) to help NBA player and teams negotiate their income.
+* Created a tool that estimates NBA Player salaries (RMSE ~ $ 4.6M , R^2 ~ .8) to help NBA players and teams negotiate their income.
 * Scraped over Basketball Reference, world’s best website for collecting any kind of basketball statistics.
 * Engineered features from the statistics of each player during both the regular season and the playoffs. 
 * Optimized Linear, Lasso, Ridge and Decision Trees to reach the best model. 
