@@ -14,4 +14,4 @@ My data science portfolio
 * Engineered features from the statistics of each player during both the regular season and the playoffs. 
 * Optimized Linear, Lasso, Ridge and Decision Trees to reach the best model. 
 
-![](/images/positions_by_state.png)
+![](/img/corrplot.png)
