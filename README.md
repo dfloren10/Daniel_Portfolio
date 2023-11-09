@@ -15,3 +15,13 @@ My data science portfolio
 * Optimized Linear, Lasso, Ridge and Decision Trees to reach the best model. 
 
 ![](/img/corrplot.png)
+
+# [Project 2: FIFA's World Cup Prediction](https:) 
+* Our project embarks on an exciting endeavor: predicting the outcomes of this prestigious tournament.
+* Forecast the potential winners and standout teams of the upcoming FIFA 2026 World Cup.
+* Delved deep into historical match data, FIFA rankings, team performance metrics, and other pertinent factors. 
+* Engineered features as the rank change in FIFA rankings or the average of goals per competition. 
+* Logistic Regression and KNN to classify the winners at each game.
+* Model based simulation for the upcoming World Cup
+
+![width = 10cm, heigth = 10cm](/img/corrplot.png)
