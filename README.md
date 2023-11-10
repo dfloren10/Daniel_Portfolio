@@ -12,6 +12,8 @@ My data science portfolio
   <img src="/img/corrplot.png" width="400">
 </p>
 
+![](/img/corrplot.png)
+
 # [Project 2: FIFA's World Cup Prediction](https:) 
 * Our project embarks on an exciting endeavor: predicting the outcomes of this prestigious tournament.
 * Forecast the potential winners and standout teams of the upcoming FIFA 2026 World Cup.
