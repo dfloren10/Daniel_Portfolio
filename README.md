@@ -7,7 +7,7 @@ My data science portfolio
 * Engineered features from the statistics of each player during both the regular season and the playoffs. 
 * Optimized Linear, Lasso, Ridge and Decision Trees to reach the best model. 
 
-![](/img/corrplot.png){: width="3500px"}
+![](/img/corrplot.png){: width="350px"}
 
 # [Project 2: FIFA's World Cup Prediction](https:) 
 * Our project embarks on an exciting endeavor: predicting the outcomes of this prestigious tournament.
