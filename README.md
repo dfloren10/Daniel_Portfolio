@@ -17,5 +17,5 @@ My data science portfolio
 * Logistic Regression and KNN to classify the winners at each game.
 * Model based simulation for the upcoming World Cup
 
-![](/img/bracket.jpg){: width="350px"}
+![](/img/bracket.jpg){: width="450px" }
 
