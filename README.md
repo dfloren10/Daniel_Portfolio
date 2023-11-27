@@ -9,7 +9,16 @@ My data science portfolio
 
 ![](/img/corrplot.png){: width="350px" }
 
-# [Project 2: FIFA's World Cup Prediction](https:) 
+# [Project 2: Improved model using artificial neural networks](https:) 
+* Created a neural network from scratch using python.
+* Mean squared error of $ 9M. 
+* Implemented mini batch stochastic gradient descent, L1 and L2 regularization.  
+* It outperforms the multilinear regression model.
+
+![](/img/nns.png){: width="350px" }
+
+
+# [Project 3: FIFA's World Cup Prediction](https:) 
 * Our project embarks on an exciting endeavor: predicting the outcomes of this prestigious tournament.
 * Forecast the potential winners and standout teams of the upcoming FIFA 2026 World Cup.
 * Delved deep into historical match data, FIFA rankings, team performance metrics, and other pertinent factors. 
