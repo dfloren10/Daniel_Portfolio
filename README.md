@@ -15,7 +15,7 @@ My data science portfolio
 * Implemented mini batch stochastic gradient descent, L1 and L2 regularization.  
 * It outperforms the multilinear regression model.
 
-![](/img/nns.png){: width="350px" }
+![](/img/network.png){: width="350px" }
 
 
 # [Project 3: FIFA's World Cup Prediction](https:) 
